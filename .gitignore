@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# custom
+notebook/rough.ipynb
+
+
+
 # C extensions
 *.so
 
@@ -120,7 +125,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.artifacts
 .env
 .venv
 env/
